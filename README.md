@@ -36,7 +36,7 @@ Currently pursuing my **Master's in Data Analytics Engineering** at **Northeaste
 
 ### MLOps:
 ![MLFLOW](https://img.shields.io/badge/MLFLOW-00B2A9?style=plastic&logo=mlflow&logoColor=white)
-![KUBEFLOW](https://img.shields.io/badge/KUBEFLOW-4A6FEE?style=plastic&logo=kubeflow&logoColor=white)
+![Kubeflow](https://img.shields.io/badge/KUBEFLOW-4A6FEE?style=for-the-badge&logo=kubeflow&logoColor=white)
 
 ### Cloud & Big Data Tools:
 ![GOOGLE CLOUD](https://img.shields.io/badge/GOOGLE_CLOUD-4285F4?style=plastic&logo=google-cloud&logoColor=white)
