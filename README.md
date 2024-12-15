@@ -21,6 +21,11 @@ Currently pursuing my **Master's in Data Analytics Engineering** at **Northeaste
 ![Snowflake](https://img.shields.io/badge/-Snowflake-0045A4?logo=snowflake)
 
 ### Machine Learning:
+![Pandas](https://img.shields.io/badge/-Pandas-150458?logo=pandas)
+![NumPy](https://img.shields.io/badge/-NumPy-013243?logo=numpy)
+![PyTorch](https://img.shields.io/badge/-PyTorch-EE4C2C?logo=pytorch)
+![Hugging Face](https://img.shields.io/badge/-Hugging%20Face-FF4F8C?logo=huggingface)
+![TensorFlow](https://img.shields.io/badge/-TensorFlow-FF6F00?logo=tensorflow)
 ![Machine Learning](https://img.shields.io/badge/-Machine%20Learning-FF6F61)
 ![XGBoost](https://img.shields.io/badge/-XGBoost-3b7fc4?logo=xgboost)
 ![Scikit-learn](https://img.shields.io/badge/-Scikit%20learn-F7931E?logo=scikit-learn)
@@ -31,10 +36,9 @@ Currently pursuing my **Master's in Data Analytics Engineering** at **Northeaste
 ![Kubernetes](https://img.shields.io/badge/-Kubernetes-326ce5?logo=kubernetes)
 ![GitHub Actions](https://img.shields.io/badge/-GitHub%20Actions-2088FF?logo=github-actions)
 
-### Data Science:
-![Pandas](https://img.shields.io/badge/-Pandas-150458?logo=pandas)
-![NumPy](https://img.shields.io/badge/-NumPy-013243?logo=numpy)
-![Jupyter](https://img.shields.io/badge/-Jupyter-F37626?logo=jupyter)
+### MLOps:
+![MLFlow](https://img.shields.io/badge/-MLFlow-00B2A9?logo=mlflow)
+![Kubeflow](https://img.shields.io/badge/-Kubeflow-4A6FEE?logo=kubeflow)
 
 ### Cloud & Big Data Tools:
 ![Google Cloud](https://img.shields.io/badge/-Google%20Cloud-4285F4?logo=googlecloud)
@@ -46,5 +50,4 @@ Currently pursuing my **Master's in Data Analytics Engineering** at **Northeaste
 
 - 📧 **Email**: [rajendragoparaju2@gmail.com](mailto:rajendragoparaju2@gmail.com)
 - 💼 **LinkedIn**: [Rajendra Goparaju](https://www.linkedin.com/in/rajendra-goparaju-941257176/)
-- 🐦 **Twitter**: [@yourhandle](https://twitter.com/yourhandle)
-- 💻 **GitHub**: [Rajendra Goparaju](https://github.com/yourusername)
+- 💻 **GitHub**: [Rajendra Goparaju](https://github.com/GoparajuRajendra20)
