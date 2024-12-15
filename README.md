@@ -5,10 +5,9 @@ I am a versatile Data Professional with expertise in building scalable data pipe
 
 Currently pursuing my **Master's in Data Analytics Engineering** at **Northeastern University**.
 
-
 ---
 
-## 🛠️ Skills & Technologies
+## 🛠️ Technical Skills
 
 ### Data Engineering:
 ![PYTHON](https://img.shields.io/badge/PYTHON-3776AB?style=plastic&logo=python&logoColor=white)
@@ -29,12 +28,10 @@ Currently pursuing my **Master's in Data Analytics Engineering** at **Northeaste
 ![XGBOOST](https://img.shields.io/badge/XGBOOST-3b7fc4?style=plastic&logo=xgboost&logoColor=white)
 ![SCIKIT-LEARN](https://img.shields.io/badge/SCIKIT--LEARN-F7931E?style=plastic&logo=scikit-learn&logoColor=white)
 
-### DataOps
+### DataOps / MLOps:
 ![DOCKER](https://img.shields.io/badge/DOCKER-2496ED?style=plastic&logo=docker&logoColor=white)
 ![KUBERNETES](https://img.shields.io/badge/KUBERNETES-326CE5?style=plastic&logo=kubernetes&logoColor=white)
 ![GITHUB ACTIONS](https://img.shields.io/badge/GITHUB_ACTIONS-2088FF?style=plastic&logo=github-actions&logoColor=white)
-
-### MLOps:
 ![MLFLOW](https://img.shields.io/badge/MLFLOW-00B2A9?style=plastic&logo=mlflow&logoColor=white)
 ![KUBEFLOW](https://img.shields.io/badge/KUBEFLOW-4A6FEE?style=plastic&logo=kubeflow&logoColor=white)
 
