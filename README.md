@@ -33,7 +33,8 @@ Currently pursuing my **Master's in Data Analytics Engineering** at **Northeaste
 ![KUBERNETES](https://img.shields.io/badge/KUBERNETES-326CE5?style=for-the-badge&logo=kubernetes&logoColor=white&logoWidth=40&logoHeight=40)
 ![GITHUB ACTIONS](https://img.shields.io/badge/GITHUB_ACTIONS-2088FF?style=for-the-badge&logo=github-actions&logoColor=white&logoWidth=40&logoHeight=40)
 ![MLFLOW](https://img.shields.io/badge/MLFLOW-0194E2?style=for-the-badge&logo=mlflow&logoColor=white&logoWidth=40&logoHeight=40)
-![KUBEFLOW](https://img.shields.io/badge/KUBEFLOW-4285F4?style=for-the-badge&logo=kubernetes&logoColor=white&logoWidth=40&logoHeight=40)
+![KUBEFLOW](https://logowik.com/content/uploads/images/kubeflow6485.jpg)
+
 
 ### Cloud:
 ![GOOGLE CLOUD](https://img.shields.io/badge/GOOGLE_CLOUD-4285F4?style=for-the-badge&logo=google-cloud&logoColor=white&logoWidth=40&logoHeight=40)
