@@ -1,7 +1,7 @@
 # Hi, I'm Rajendra 👋
 ## Data Engineer | Machine Learning Engineer | Data Scientist
 
-I am a versatile Data Professional with expertise in building scalable data pipelines, analyzing complex datasets, developing machine learning models, and deploying them into production. I specialize in combining data engineering with machine learning to solve real-world business problems. My experience spans across data engineering, machine learning engineering, and data science, enabling me to handle the entire lifecycle from data extraction and transformation to model deployment and performance monitoring. 
+I am a versatile Data Professional with expertise in building scalable data pipelines, analyzing complex datasets, developing machine learning models, and deploying them into production. My experience spans across data engineering, machine learning engineering, and data science, enabling me to handle the entire lifecycle from data extraction and transformation to model deployment and performance monitoring. 
 
 Currently pursuing my **Master's in Data Analytics Engineering** at **Northeastern University**.
 
