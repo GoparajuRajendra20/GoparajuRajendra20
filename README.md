@@ -34,4 +34,3 @@ Currently pursuing my **Master's in Data Analytics Engineering** at **Northeaste
 
 - 📧 **Email**: [rajendragoparaju2@gmail.com](mailto:rajendragoparaju2@gmail.com)
 - 💼 **LinkedIn**: [Rajendra Goparaju](https://www.linkedin.com/in/rajendragoparaju/)
-- 💻 **GitHub**: [Rajendra Goparaju](https://github.com/GoparajuRajendra20)
