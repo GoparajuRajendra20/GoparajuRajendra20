@@ -22,7 +22,6 @@ Currently pursuing my **Master's in Data Analytics Engineering** at **Northeaste
 ![PYTORCH](https://img.shields.io/badge/PYTORCH-EE4C2C?style=for-the-badge&logo=pytorch&logoColor=white&logoWidth=40&logoHeight=40)
 ![HUGGING FACE](https://img.shields.io/badge/HUGGING_FACE-FF9A00?style=for-the-badge&logo=huggingface&logoColor=white&logoWidth=40&logoHeight=40)
 ![TENSORFLOW](https://img.shields.io/badge/TENSORFLOW-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white&logoWidth=40&logoHeight=40)
-![XGBOOST](https://img.shields.io/badge/XGBOOST-3b7fc4?style=for-the-badge&logo=xgboost&logoColor=white&logoWidth=40&logoHeight=40)
 ![SCIKIT-LEARN](https://img.shields.io/badge/SCIKIT--LEARN-F7931E?style=for-the-badge&logo=scikit-learn&logoColor=white&logoWidth=40&logoHeight=40)
 ![DOCKER](https://img.shields.io/badge/DOCKER-2496ED?style=for-the-badge&logo=docker&logoColor=white&logoWidth=40&logoHeight=40)
 ![KUBERNETES](https://img.shields.io/badge/KUBERNETES-326CE5?style=for-the-badge&logo=kubernetes&logoColor=white&logoWidth=40&logoHeight=40)
