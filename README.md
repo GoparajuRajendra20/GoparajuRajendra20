@@ -12,6 +12,8 @@ Currently pursuing my **Master's in Data Analytics Engineering** at **Northeaste
 ![PYTHON](https://img.shields.io/badge/PYTHON-3776AB?style=for-the-badge&logo=python&logoColor=white&logoWidth=40&logoHeight=40)
 ![POSTGRESQL](https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=postgresql&logoColor=white&logoWidth=40&logoHeight=40)
 ![APACHE SPARK](https://img.shields.io/badge/APACHE_SPARK-E25A1C?style=for-the-badge&logo=apache-spark&logoColor=white&logoWidth=40&logoHeight=40)
+![HADOOP](https://img.shields.io/badge/HADOOP-66CCFF?style=for-the-badge&logo=apache-hadoop&logoColor=white&logoWidth=40&logoHeight=40)
+![HIVE](https://img.shields.io/badge/HIVE-FDEE21?style=for-the-badge&logo=apache-hive&logoColor=black&logoWidth=40&logoHeight=40)
 ![APACHE AIRFLOW](https://img.shields.io/badge/APACHE_AIRFLOW-017CEE?style=for-the-badge&logo=apache-airflow&logoColor=white&logoWidth=40&logoHeight=40)
 ![KAFKA](https://img.shields.io/badge/KAFKA-231F20?style=for-the-badge&logo=apache-kafka&logoColor=white&logoWidth=40&logoHeight=40)
 ![PYSPARK](https://img.shields.io/badge/PYSPARK-E25A1C?style=for-the-badge&logo=apache-spark&logoColor=white&logoWidth=40&logoHeight=40)
