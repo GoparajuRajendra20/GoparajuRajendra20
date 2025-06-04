@@ -5,44 +5,6 @@ I am a versatile Data Professional with expertise in building scalable data pipe
 
 Currently pursuing my **Master's in Data Analytics Engineering** at **Northeastern University**.
 
-## ⚡ Stats ⚡
-
-<p align="center">
-  <img src="http://github-profile-summary-cards.vercel.app/api/cards/stats?username=GoparajuRajendra20&theme=default" alt="Rajendra's stats" />
-  <img src="http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=GoparajuRajendra20&theme=default" alt="Rajendra's stats" />
-</p>
-
-<p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com?user=GoparajuRajendra20" alt="Rajendra's streak" />
-</p>
-
-<!-- Snake animation section -->
-<!-- 
-<h2 align="center">🪱 Snake eating my contribution 🪱</h2>
-
-
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://github.com/sanidhyy/sanidhyy/blob/output/github-contribution-grid-snake-dark.svg" />
-  <source media="(prefers-color-scheme: light), (prefers-color-scheme: no-preference)" srcset="https://github.com/sanidhyy/sanidhyy/blob/output/github-contribution-grid-snake.svg" />
-  <img src="https://github.com/sanidhyy/sanidhyy/blob/output/github-contribution-grid-snake.svg" alt="github-snake" />
-</picture>
--->
-
-## GitHub Achievements
-
-<p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=GoparajuRajendra20&theme=flat&title=MultiLanguage,Commits,Repositories,Stars,Followers,PullRequest" alt="GitHub Trophy" />
-</p>
-
-<!-- 🐍 Snake animation section -->
-<!-- 
-<h2 align="center">🪱 Snake eating my contribution 🪱</h2>
-
----
-
-![Profile views](https://komarev.com/ghpvc/?username=GoparajuRajendra20&color=green)
-
-
 ## 🛠️ Technical Skills
 
 ![PYTHON](https://img.shields.io/badge/PYTHON-3776AB?style=for-the-badge&logo=python&logoColor=white&logoWidth=40&logoHeight=40)
