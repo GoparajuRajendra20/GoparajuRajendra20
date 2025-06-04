@@ -40,6 +40,9 @@ Currently pursuing my **Master's in Data Analytics Engineering** at **Northeaste
 
 ---
 
+![Profile views](https://komarev.com/ghpvc/?username=GoparajuRajendra20&color=green)
+
+
 ## 🛠️ Technical Skills
 
 ![PYTHON](https://img.shields.io/badge/PYTHON-3776AB?style=for-the-badge&logo=python&logoColor=white&logoWidth=40&logoHeight=40)
