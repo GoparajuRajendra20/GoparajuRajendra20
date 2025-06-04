@@ -20,6 +20,16 @@ Currently pursuing my **Master's in Data Analytics Engineering** at **Northeaste
 <!-- 
 <h2 align="center">🪱 Snake eating my contribution 🪱</h2>
 
+## GitHub Achievements
+
+<p align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=GoparajuRajendra20&theme=flat&title=MultiLanguage,Commits,Repositories,Stars,Followers,PullRequest" alt="GitHub Trophy" />
+</p>
+
+<!-- 🐍 Snake animation section -->
+<!-- 
+<h2 align="center">🪱 Snake eating my contribution 🪱</h2>
+
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://github.com/sanidhyy/sanidhyy/blob/output/github-contribution-grid-snake-dark.svg" />
   <source media="(prefers-color-scheme: light), (prefers-color-scheme: no-preference)" srcset="https://github.com/sanidhyy/sanidhyy/blob/output/github-contribution-grid-snake.svg" />
